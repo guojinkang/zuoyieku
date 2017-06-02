@@ -1,7 +1,7 @@
 .imgage{float:left;padding:2px;height: 200px;width:250px;}
 div a img{height: 180px; width: 250px;float:left;}
 .desc{font:bold,16px; text-align: center;}
- div a:hover img{opacity:1;}
+div a:hover img{opacity:1;}
 div :link img{opacity:0.5;}
  div img{
  	display:inline;
