@@ -1,7 +1,7 @@
 *{padding: 0px;margin: 0;color:#333;}
 body{font:12px/22px "宋体";}
 a{text-decoration:none;color: #333; font:bolder 16px/22px "宋体";}
-.logo{width:1000px; margin:5px auto;}
+.logo{width:1000px; margin:10px auto;}
 .logo img{float:left;}
 .wen input{width:150px; height: 20px;float:left; margin:0px auto;}
 .an input{width:60px; height:25px; float: left; margin:0px auto;}
@@ -17,6 +17,6 @@ a{text-decoration:none;color: #333; font:bolder 16px/22px "宋体";}
 .list{width:1000px; margin:0px auto;}
 .list .list-img{width:230px; height: 310px; float:left; margin:10px;}
 .footer{height:100px; background: #888;color:#aaa;text-align: center;}
-.yuan{margin: 2px auto; height: 25px; width:1000px; background: #ccc;font-size: 20px; float:left; align-content: center;}
+.yuan{margin: 2px auto; height: 45px;width:1000px; background: #9f9;font-size: 20px; float:left; align-content: center;line-height: 45px;}
 div h3{text-align: center;}
 
